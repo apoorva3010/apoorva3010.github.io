@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/apoorva3010.github.io/static/css/main.c38c6e8b.chunk.css",
+    "main.js": "/apoorva3010.github.io/static/js/main.718797cf.chunk.js",
+    "main.js.map": "/apoorva3010.github.io/static/js/main.718797cf.chunk.js.map",
+    "runtime-main.js": "/apoorva3010.github.io/static/js/runtime-main.8db149a3.js",
+    "runtime-main.js.map": "/apoorva3010.github.io/static/js/runtime-main.8db149a3.js.map",
+    "static/css/2.04ff9426.chunk.css": "/apoorva3010.github.io/static/css/2.04ff9426.chunk.css",
+    "static/js/2.ddced7a2.chunk.js": "/apoorva3010.github.io/static/js/2.ddced7a2.chunk.js",
+    "static/js/2.ddced7a2.chunk.js.map": "/apoorva3010.github.io/static/js/2.ddced7a2.chunk.js.map",
+    "index.html": "/apoorva3010.github.io/index.html",
+    "precache-manifest.e8d8acc7973a8286be8b4a6493d97b4a.js": "/apoorva3010.github.io/precache-manifest.e8d8acc7973a8286be8b4a6493d97b4a.js",
+    "service-worker.js": "/apoorva3010.github.io/service-worker.js",
+    "static/css/2.04ff9426.chunk.css.map": "/apoorva3010.github.io/static/css/2.04ff9426.chunk.css.map",
+    "static/css/main.c38c6e8b.chunk.css.map": "/apoorva3010.github.io/static/css/main.c38c6e8b.chunk.css.map",
+    "static/js/2.ddced7a2.chunk.js.LICENSE.txt": "/apoorva3010.github.io/static/js/2.ddced7a2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/apoorva3010.github.io/static/media/logo.5d5d9eef.svg",
+    "static/media/logo1.jpg": "/apoorva3010.github.io/static/media/logo1.63ccb514.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8db149a3.js",
+    "static/css/2.04ff9426.chunk.css",
+    "static/js/2.ddced7a2.chunk.js",
+    "static/css/main.c38c6e8b.chunk.css",
+    "static/js/main.718797cf.chunk.js"
+  ]
+}
